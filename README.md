@@ -1,4 +1,4 @@
-![logo]()
+![logo](Baner.png)
 # Hi 👋, I'm Sherwin Rastegar
 
 ### A Mechatronics Expert to Integrate the Industry with Artificial Intelligence
